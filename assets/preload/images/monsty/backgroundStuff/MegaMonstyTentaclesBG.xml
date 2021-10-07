@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MegaMonstyTentaclesBG.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG Tentacles0000" x="0" y="0" width="1831" height="1053" frameX="-18" frameY="-33" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0001" x="0" y="0" width="1831" height="1053" frameX="-18" frameY="-33" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0002" x="1831" y="0" width="1840" height="1005" frameX="-9" frameY="-81" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0003" x="1831" y="0" width="1840" height="1005" frameX="-9" frameY="-81" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0004" x="1831" y="0" width="1840" height="1005" frameX="-9" frameY="-81" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0005" x="1831" y="0" width="1840" height="1005" frameX="-9" frameY="-81" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0006" x="3671" y="0" width="1827" height="985" frameX="-22" frameY="-101" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0007" x="3671" y="0" width="1827" height="985" frameX="-22" frameY="-101" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0008" x="5498" y="0" width="1839" height="944" frameX="-10" frameY="-142" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0009" x="5498" y="0" width="1839" height="944" frameX="-10" frameY="-142" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0010" x="5498" y="0" width="1839" height="944" frameX="-10" frameY="-142" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0011" x="5498" y="0" width="1839" height="944" frameX="-10" frameY="-142" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0012" x="0" y="1053" width="1841" height="1007" frameX="-8" frameY="-79" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0013" x="0" y="1053" width="1841" height="1007" frameX="-8" frameY="-79" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0014" x="1841" y="1053" width="1838" height="999" frameX="-11" frameY="-87" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0015" x="1841" y="1053" width="1838" height="999" frameX="-11" frameY="-87" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0016" x="1841" y="1053" width="1838" height="999" frameX="-11" frameY="-87" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0017" x="3679" y="1053" width="1831" height="1007" frameX="-18" frameY="-79" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0018" x="3679" y="1053" width="1831" height="1007" frameX="-18" frameY="-79" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0019" x="3679" y="1053" width="1831" height="1007" frameX="-18" frameY="-79" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0020" x="3679" y="1053" width="1831" height="1007" frameX="-18" frameY="-79" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0021" x="5510" y="1053" width="1829" height="1086" frameX="-20" frameY="0" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0022" x="5510" y="1053" width="1829" height="1086" frameX="-20" frameY="0" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0023" x="5510" y="1053" width="1829" height="1086" frameX="-20" frameY="0" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0024" x="0" y="2139" width="1823" height="1077" frameX="-26" frameY="-9" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0025" x="0" y="2139" width="1823" height="1077" frameX="-26" frameY="-9" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0026" x="0" y="2139" width="1823" height="1077" frameX="-26" frameY="-9" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0027" x="0" y="2139" width="1823" height="1077" frameX="-26" frameY="-9" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0028" x="1823" y="2139" width="1834" height="1001" frameX="-15" frameY="-85" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0029" x="1823" y="2139" width="1834" height="1001" frameX="-15" frameY="-85" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0030" x="1823" y="2139" width="1834" height="1001" frameX="-15" frameY="-85" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0031" x="1823" y="2139" width="1834" height="1001" frameX="-15" frameY="-85" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0032" x="3657" y="2139" width="1825" height="1035" frameX="-24" frameY="-51" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0033" x="3657" y="2139" width="1825" height="1035" frameX="-24" frameY="-51" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0034" x="3657" y="2139" width="1825" height="1035" frameX="-24" frameY="-51" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0035" x="3657" y="2139" width="1825" height="1035" frameX="-24" frameY="-51" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0036" x="5482" y="2139" width="1843" height="1035" frameX="-6" frameY="-51" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0037" x="5482" y="2139" width="1843" height="1035" frameX="-6" frameY="-51" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0038" x="5482" y="2139" width="1843" height="1035" frameX="-6" frameY="-51" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0039" x="5482" y="2139" width="1843" height="1035" frameX="-6" frameY="-51" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0040" x="0" y="3216" width="1831" height="1022" frameX="-18" frameY="-64" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0041" x="0" y="3216" width="1831" height="1022" frameX="-18" frameY="-64" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0042" x="0" y="3216" width="1831" height="1022" frameX="-18" frameY="-64" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0043" x="0" y="3216" width="1831" height="1022" frameX="-18" frameY="-64" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0044" x="1831" y="3216" width="1819" height="1021" frameX="-30" frameY="-65" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0045" x="1831" y="3216" width="1819" height="1021" frameX="-30" frameY="-65" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0046" x="1831" y="3216" width="1819" height="1021" frameX="-30" frameY="-65" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0047" x="1831" y="3216" width="1819" height="1021" frameX="-30" frameY="-65" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0048" x="3650" y="3216" width="1849" height="1057" frameX="0" frameY="-29" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0049" x="3650" y="3216" width="1849" height="1057" frameX="0" frameY="-29" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0050" x="3650" y="3216" width="1849" height="1057" frameX="0" frameY="-29" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0051" x="3650" y="3216" width="1849" height="1057" frameX="0" frameY="-29" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0052" x="5499" y="3216" width="1839" height="1065" frameX="-10" frameY="-21" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0053" x="5499" y="3216" width="1839" height="1065" frameX="-10" frameY="-21" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0054" x="5499" y="3216" width="1839" height="1065" frameX="-10" frameY="-21" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0055" x="5499" y="3216" width="1839" height="1065" frameX="-10" frameY="-21" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0056" x="0" y="4281" width="1838" height="1086" frameX="-11" frameY="0" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0057" x="0" y="4281" width="1838" height="1086" frameX="-11" frameY="0" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0058" x="0" y="4281" width="1838" height="1086" frameX="-11" frameY="0" frameWidth="1849" frameHeight="1086"/>
+	<SubTexture name="BG Tentacles0059" x="0" y="4281" width="1838" height="1086" frameX="-11" frameY="0" frameWidth="1849" frameHeight="1086"/>
+</TextureAtlas>

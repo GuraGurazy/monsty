@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cables.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Background Cables0000" x="0" y="0" width="1883" height="510"/>
+	<SubTexture name="Background Cables0001" x="0" y="0" width="1883" height="510"/>
+	<SubTexture name="Background Cables0002" x="1883" y="0" width="1883" height="510"/>
+	<SubTexture name="Background Cables0003" x="1883" y="0" width="1883" height="510"/>
+	<SubTexture name="Background Cables0004" x="3766" y="0" width="1883" height="510"/>
+	<SubTexture name="Background Cables0005" x="3766" y="0" width="1883" height="510"/>
+	<SubTexture name="Background Cables0006" x="5649" y="0" width="1883" height="510"/>
+	<SubTexture name="Background Cables0007" x="5649" y="0" width="1883" height="510"/>
+	<SubTexture name="Background Cables0008" x="0" y="510" width="1883" height="510"/>
+	<SubTexture name="Background Cables0009" x="0" y="510" width="1883" height="510"/>
+	<SubTexture name="Background Cables0010" x="1883" y="510" width="1883" height="510"/>
+	<SubTexture name="Background Cables0011" x="1883" y="510" width="1883" height="510"/>
+	<SubTexture name="Background Cables0012" x="3766" y="510" width="1883" height="510"/>
+	<SubTexture name="Background Cables0013" x="3766" y="510" width="1883" height="510"/>
+	<SubTexture name="Background Cables0014" x="5649" y="510" width="1883" height="510"/>
+	<SubTexture name="Background Cables0015" x="5649" y="510" width="1883" height="510"/>
+	<SubTexture name="Background Cables0016" x="0" y="1020" width="1883" height="510"/>
+	<SubTexture name="Background Cables0017" x="0" y="1020" width="1883" height="510"/>
+	<SubTexture name="Background Cables0018" x="1883" y="1020" width="1883" height="510"/>
+	<SubTexture name="Background Cables0019" x="1883" y="1020" width="1883" height="510"/>
+	<SubTexture name="Background Cables0020" x="3766" y="1020" width="1883" height="510"/>
+	<SubTexture name="Background Cables0021" x="3766" y="1020" width="1883" height="510"/>
+	<SubTexture name="Background Cables0022" x="5649" y="1020" width="1883" height="510"/>
+	<SubTexture name="Background Cables0023" x="5649" y="1020" width="1883" height="510"/>
+	<SubTexture name="Background Cables0024" x="0" y="1530" width="1883" height="510"/>
+	<SubTexture name="Background Cables0025" x="0" y="1530" width="1883" height="510"/>
+	<SubTexture name="Background Cables0026" x="1883" y="1530" width="1883" height="510"/>
+	<SubTexture name="Background Cables0027" x="1883" y="1530" width="1883" height="510"/>
+	<SubTexture name="Background Cables0028" x="3766" y="1530" width="1883" height="510"/>
+	<SubTexture name="Background Cables0029" x="3766" y="1530" width="1883" height="510"/>
+	<SubTexture name="Background Cables0030" x="5649" y="1530" width="1883" height="510"/>
+	<SubTexture name="Background Cables0031" x="5649" y="1530" width="1883" height="510"/>
+	<SubTexture name="Background Cables0032" x="0" y="2040" width="1883" height="510"/>
+	<SubTexture name="Background Cables0033" x="0" y="2040" width="1883" height="510"/>
+	<SubTexture name="Background Cables0034" x="1883" y="2040" width="1883" height="510"/>
+	<SubTexture name="Background Cables0035" x="1883" y="2040" width="1883" height="510"/>
+	<SubTexture name="Background Cables0036" x="3766" y="2040" width="1883" height="510"/>
+	<SubTexture name="Background Cables0037" x="3766" y="2040" width="1883" height="510"/>
+	<SubTexture name="Background Cables0038" x="5649" y="2040" width="1883" height="510"/>
+	<SubTexture name="Background Cables0039" x="5649" y="2040" width="1883" height="510"/>
+	<SubTexture name="Background Cables0040" x="0" y="2550" width="1883" height="510"/>
+	<SubTexture name="Background Cables0041" x="0" y="2550" width="1883" height="510"/>
+	<SubTexture name="Background Cables0042" x="1883" y="2550" width="1883" height="510"/>
+	<SubTexture name="Background Cables0043" x="3766" y="2550" width="1883" height="510"/>
+	<SubTexture name="Background Cables0044" x="5649" y="2550" width="1883" height="510"/>
+	<SubTexture name="Background Cables0045" x="5649" y="2550" width="1883" height="510"/>
+	<SubTexture name="Background Cables0046" x="0" y="3060" width="1883" height="510"/>
+	<SubTexture name="Background Cables0047" x="0" y="3060" width="1883" height="510"/>
+</TextureAtlas>

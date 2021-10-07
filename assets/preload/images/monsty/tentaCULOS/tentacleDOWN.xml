@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tentacleDOWN.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tentacles Mechanic Appear0000" x="0" y="0" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Appear0001" x="0" y="0" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Appear0002" x="3091" y="0" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Appear0003" x="3091" y="0" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Appear0004" x="0" y="1065" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Appear0005" x="0" y="1065" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Appear0006" x="3091" y="1065" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Appear0007" x="3091" y="1065" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Appear0008" x="0" y="2130" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Appear0009" x="0" y="2130" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Appear0010" x="3091" y="2130" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Appear0011" x="3091" y="2130" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Attack Disappear0000" x="0" y="3195" width="3091" height="1065" frameX="0" frameY="-142" frameWidth="3091" frameHeight="1207"/>
+	<SubTexture name="Tentacles Mechanic Attack Disappear0001" x="0" y="3195" width="3091" height="1065" frameX="0" frameY="-142" frameWidth="3091" frameHeight="1207"/>
+	<SubTexture name="Tentacles Mechanic Attack Disappear0002" x="3091" y="3195" width="3091" height="1207"/>
+	<SubTexture name="Tentacles Mechanic Attack Disappear0003" x="3091" y="3195" width="3091" height="1207"/>
+	<SubTexture name="Tentacles Mechanic Attack Disappear0004" x="0" y="4402" width="3091" height="1065" frameX="0" frameY="-142" frameWidth="3091" frameHeight="1207"/>
+	<SubTexture name="Tentacles Mechanic Attack Disappear0005" x="0" y="4402" width="3091" height="1065" frameX="0" frameY="-142" frameWidth="3091" frameHeight="1207"/>
+	<SubTexture name="Tentacles Mechanic Attack Disappear0006" x="3091" y="4402" width="3091" height="1065" frameX="0" frameY="-142" frameWidth="3091" frameHeight="1207"/>
+	<SubTexture name="Tentacles Mechanic Attack Disappear0007" x="3091" y="4402" width="3091" height="1065" frameX="0" frameY="-142" frameWidth="3091" frameHeight="1207"/>
+	<SubTexture name="Tentacles Mechanic Attack Disappear0008" x="0" y="5467" width="3091" height="1065" frameX="0" frameY="-142" frameWidth="3091" frameHeight="1207"/>
+	<SubTexture name="Tentacles Mechanic Disappear0000" x="0" y="2130" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Disappear0001" x="0" y="2130" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Disappear0002" x="3091" y="1065" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Disappear0003" x="3091" y="1065" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Disappear0004" x="0" y="1065" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Disappear0005" x="0" y="1065" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Disappear0006" x="3091" y="0" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Disappear0007" x="3091" y="0" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Disappear0008" x="0" y="0" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Disappear0009" x="0" y="0" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Pre Attack0000" x="3091" y="2130" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Pre Attack0001" x="3091" y="2130" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Pre Attack0002" x="3091" y="5467" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Pre Attack0003" x="3091" y="5467" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Pre Attack0004" x="0" y="6532" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Pre Attack0005" x="0" y="6532" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Pre Attack0006" x="3091" y="6532" width="3091" height="1065"/>
+	<SubTexture name="Tentacles Mechanic Pre Attack0007" x="3091" y="6532" width="3091" height="1065"/>
+</TextureAtlas>

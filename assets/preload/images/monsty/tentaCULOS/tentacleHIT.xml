@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tentacleHIT.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tentacles Hit0000" x="0" y="0" width="183" height="155" frameX="-315" frameY="-48" frameWidth="575" frameHeight="464"/>
+	<SubTexture name="Tentacles Hit0001" x="183" y="0" width="362" height="297" frameX="-180" frameY="-26" frameWidth="575" frameHeight="464"/>
+	<SubTexture name="Tentacles Hit0002" x="545" y="0" width="575" height="463" frameX="0" frameY="-1" frameWidth="575" frameHeight="464"/>
+	<SubTexture name="Tentacles Hit0003" x="1120" y="0" width="536" height="457" frameX="-34" frameY="0" frameWidth="575" frameHeight="464"/>
+	<SubTexture name="Tentacles Hit0004" x="1656" y="0" width="0" height="0" frameX="-358" frameY="-70" frameWidth="575" frameHeight="464"/>
+</TextureAtlas>

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgMutants.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Background Mutants0000" x="0" y="0" width="2252" height="726" frameX="0" frameY="-9" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0001" x="2252" y="0" width="2252" height="726" frameX="0" frameY="-9" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0002" x="4504" y="0" width="2252" height="726" frameX="0" frameY="-9" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0003" x="0" y="726" width="2252" height="727" frameX="0" frameY="-8" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0004" x="4504" y="0" width="2252" height="726" frameX="0" frameY="-9" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0005" x="0" y="726" width="2252" height="727" frameX="0" frameY="-8" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0006" x="2252" y="726" width="2252" height="726" frameX="0" frameY="-9" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0007" x="2252" y="0" width="2252" height="726" frameX="0" frameY="-9" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0008" x="2252" y="0" width="2252" height="726" frameX="0" frameY="-9" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0009" x="2252" y="0" width="2252" height="726" frameX="0" frameY="-9" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0010" x="2252" y="0" width="2252" height="726" frameX="0" frameY="-9" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0011" x="0" y="726" width="2252" height="727" frameX="0" frameY="-8" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0012" x="2252" y="0" width="2252" height="726" frameX="0" frameY="-9" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0013" x="4504" y="726" width="2252" height="731" frameX="0" frameY="-4" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0014" x="0" y="1457" width="2252" height="729" frameX="0" frameY="-6" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0015" x="2252" y="1457" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0016" x="4504" y="726" width="2252" height="731" frameX="0" frameY="-4" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0017" x="0" y="1457" width="2252" height="729" frameX="0" frameY="-6" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0018" x="0" y="1457" width="2252" height="729" frameX="0" frameY="-6" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0019" x="4504" y="1457" width="2252" height="731" frameX="0" frameY="-4" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0020" x="0" y="1457" width="2252" height="729" frameX="0" frameY="-6" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0021" x="4504" y="1457" width="2252" height="731" frameX="0" frameY="-4" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0022" x="2252" y="1457" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0023" x="0" y="1457" width="2252" height="729" frameX="0" frameY="-6" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0024" x="4504" y="1457" width="2252" height="731" frameX="0" frameY="-4" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0025" x="2252" y="1457" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0026" x="2252" y="1457" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0027" x="2252" y="1457" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0028" x="2252" y="1457" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0029" x="2252" y="1457" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0030" x="2252" y="1457" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0031" x="2252" y="1457" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0032" x="2252" y="1457" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0033" x="2252" y="1457" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0034" x="0" y="2188" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0035" x="2252" y="2188" width="2252" height="731" frameX="0" frameY="-4" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0036" x="4504" y="2188" width="2252" height="729" frameX="0" frameY="-6" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0037" x="2252" y="2188" width="2252" height="731" frameX="0" frameY="-4" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0038" x="4504" y="2188" width="2252" height="729" frameX="0" frameY="-6" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0039" x="2252" y="2188" width="2252" height="731" frameX="0" frameY="-4" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0040" x="0" y="2188" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0041" x="4504" y="2188" width="2252" height="729" frameX="0" frameY="-6" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0042" x="2252" y="2188" width="2252" height="731" frameX="0" frameY="-4" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0043" x="4504" y="2188" width="2252" height="729" frameX="0" frameY="-6" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0044" x="2252" y="2188" width="2252" height="731" frameX="0" frameY="-4" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0045" x="0" y="2919" width="2252" height="729" frameX="0" frameY="-6" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0046" x="0" y="2188" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0047" x="0" y="2188" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0048" x="4504" y="2188" width="2252" height="729" frameX="0" frameY="-6" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0049" x="0" y="2188" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0050" x="0" y="2188" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0051" x="0" y="2188" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0052" x="0" y="2188" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0053" x="0" y="2188" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0054" x="0" y="2188" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0055" x="0" y="2188" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0056" x="0" y="2188" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0057" x="0" y="2188" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0058" x="0" y="2188" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0059" x="0" y="2188" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0060" x="0" y="2188" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0061" x="0" y="2188" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0062" x="0" y="2188" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0063" x="2252" y="2188" width="2252" height="731" frameX="0" frameY="-4" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0064" x="0" y="2188" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0065" x="0" y="2188" width="2252" height="730" frameX="0" frameY="-5" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0066" x="2252" y="2919" width="2252" height="733" frameX="0" frameY="-2" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0067" x="4504" y="2919" width="2252" height="735"/>
+	<SubTexture name="Background Mutants0068" x="2252" y="2919" width="2252" height="733" frameX="0" frameY="-2" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0069" x="0" y="3654" width="2252" height="735"/>
+	<SubTexture name="Background Mutants0070" x="2252" y="2919" width="2252" height="733" frameX="0" frameY="-2" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0071" x="0" y="3654" width="2252" height="735"/>
+	<SubTexture name="Background Mutants0072" x="2252" y="3654" width="2252" height="734" frameX="0" frameY="-1" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0073" x="2252" y="2919" width="2252" height="733" frameX="0" frameY="-2" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0074" x="4504" y="2919" width="2252" height="735"/>
+	<SubTexture name="Background Mutants0075" x="2252" y="3654" width="2252" height="734" frameX="0" frameY="-1" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0076" x="0" y="3654" width="2252" height="735"/>
+	<SubTexture name="Background Mutants0077" x="4504" y="3654" width="2252" height="733" frameX="0" frameY="-2" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0078" x="2252" y="3654" width="2252" height="734" frameX="0" frameY="-1" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0079" x="2252" y="3654" width="2252" height="734" frameX="0" frameY="-1" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0080" x="2252" y="3654" width="2252" height="734" frameX="0" frameY="-1" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0081" x="2252" y="3654" width="2252" height="734" frameX="0" frameY="-1" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0082" x="2252" y="2919" width="2252" height="733" frameX="0" frameY="-2" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0083" x="2252" y="3654" width="2252" height="734" frameX="0" frameY="-1" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0084" x="2252" y="3654" width="2252" height="734" frameX="0" frameY="-1" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0085" x="2252" y="3654" width="2252" height="734" frameX="0" frameY="-1" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0086" x="2252" y="3654" width="2252" height="734" frameX="0" frameY="-1" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0087" x="2252" y="3654" width="2252" height="734" frameX="0" frameY="-1" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0088" x="2252" y="3654" width="2252" height="734" frameX="0" frameY="-1" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0089" x="2252" y="3654" width="2252" height="734" frameX="0" frameY="-1" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0090" x="2252" y="3654" width="2252" height="734" frameX="0" frameY="-1" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants0091" x="2252" y="3654" width="2252" height="734" frameX="0" frameY="-1" frameWidth="2252" frameHeight="735"/>
+	<SubTexture name="Background Mutants Empty0000" x="0" y="4389" width="2252" height="726"/>
+	<SubTexture name="Background Mutants Empty Final0000" x="2252" y="4389" width="2252" height="726"/>
+</TextureAtlas>

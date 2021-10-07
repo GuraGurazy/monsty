@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Monsty and Boyfriend Story Image.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="monsty idle0000" x="0" y="0" width="688" height="273" frameX="0" frameY="-1" frameWidth="688" frameHeight="274"/>
+	<SubTexture name="monsty idle0001" x="0" y="0" width="688" height="273" frameX="0" frameY="-1" frameWidth="688" frameHeight="274"/>
+	<SubTexture name="monsty idle0002" x="688" y="0" width="688" height="274"/>
+	<SubTexture name="monsty idle0003" x="688" y="0" width="688" height="274"/>
+	<SubTexture name="monsty idle0004" x="0" y="274" width="688" height="273" frameX="0" frameY="-1" frameWidth="688" frameHeight="274"/>
+	<SubTexture name="monsty idle0005" x="0" y="274" width="688" height="273" frameX="0" frameY="-1" frameWidth="688" frameHeight="274"/>
+	<SubTexture name="monsty idle0006" x="688" y="274" width="688" height="273" frameX="0" frameY="-1" frameWidth="688" frameHeight="274"/>
+	<SubTexture name="monsty idle0007" x="0" y="547" width="688" height="273" frameX="0" frameY="-1" frameWidth="688" frameHeight="274"/>
+	<SubTexture name="monsty idle0008" x="688" y="547" width="688" height="273" frameX="0" frameY="-1" frameWidth="688" frameHeight="274"/>
+	<SubTexture name="monsty idle0009" x="0" y="820" width="688" height="273" frameX="0" frameY="-1" frameWidth="688" frameHeight="274"/>
+	<SubTexture name="monsty idle0010" x="688" y="820" width="688" height="274"/>
+	<SubTexture name="monsty idle0011" x="0" y="1094" width="688" height="274"/>
+	<SubTexture name="monsty idle0012" x="688" y="1094" width="688" height="273" frameX="0" frameY="-1" frameWidth="688" frameHeight="274"/>
+	<SubTexture name="monsty idle0013" x="0" y="1368" width="688" height="273" frameX="0" frameY="-1" frameWidth="688" frameHeight="274"/>
+</TextureAtlas>

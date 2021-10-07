@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="monsty_title_floating.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="monsty floating0000" x="0" y="0" width="641" height="303" frameX="0" frameY="-13" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0001" x="0" y="0" width="641" height="303" frameX="0" frameY="-13" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0002" x="641" y="0" width="641" height="303" frameX="0" frameY="-13" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0003" x="641" y="0" width="641" height="303" frameX="0" frameY="-13" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0004" x="1282" y="0" width="640" height="304" frameX="0" frameY="-12" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0005" x="1282" y="0" width="640" height="304" frameX="0" frameY="-12" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0006" x="1922" y="0" width="640" height="303" frameX="0" frameY="-12" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0007" x="1922" y="0" width="640" height="303" frameX="0" frameY="-12" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0008" x="2562" y="0" width="641" height="304" frameX="0" frameY="-11" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0009" x="2562" y="0" width="641" height="304" frameX="0" frameY="-11" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0010" x="3203" y="0" width="640" height="304" frameX="-1" frameY="-10" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0011" x="3203" y="0" width="640" height="304" frameX="-1" frameY="-10" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0012" x="0" y="304" width="639" height="306" frameX="-1" frameY="-8" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0013" x="0" y="304" width="639" height="306" frameX="-1" frameY="-8" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0014" x="639" y="304" width="639" height="306" frameX="-1" frameY="-7" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0015" x="639" y="304" width="639" height="306" frameX="-1" frameY="-7" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0016" x="1278" y="304" width="638" height="307" frameX="-1" frameY="-5" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0017" x="1278" y="304" width="638" height="307" frameX="-1" frameY="-5" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0018" x="1916" y="304" width="638" height="308" frameX="-1" frameY="-3" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0019" x="1916" y="304" width="638" height="308" frameX="-1" frameY="-3" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0020" x="2554" y="304" width="638" height="308" frameX="-1" frameY="-2" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0021" x="2554" y="304" width="638" height="308" frameX="-1" frameY="-2" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0022" x="3192" y="304" width="638" height="309" frameX="-1" frameY="-1" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0023" x="3192" y="304" width="638" height="309" frameX="-1" frameY="-1" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0024" x="0" y="613" width="636" height="309" frameX="-2" frameY="0" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0025" x="0" y="613" width="636" height="309" frameX="-2" frameY="0" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0026" x="636" y="613" width="636" height="309" frameX="-2" frameY="0" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0027" x="636" y="613" width="636" height="309" frameX="-2" frameY="0" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0028" x="1272" y="613" width="636" height="309" frameX="-2" frameY="0" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0029" x="1908" y="613" width="636" height="309" frameX="-2" frameY="0" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0030" x="1908" y="613" width="636" height="309" frameX="-2" frameY="0" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0031" x="2544" y="613" width="636" height="309" frameX="-2" frameY="0" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0032" x="2544" y="613" width="636" height="309" frameX="-2" frameY="0" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0033" x="3180" y="613" width="636" height="309" frameX="-2" frameY="0" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0034" x="3180" y="613" width="636" height="309" frameX="-2" frameY="0" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0035" x="0" y="922" width="636" height="308" frameX="-2" frameY="-1" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0036" x="0" y="922" width="636" height="308" frameX="-2" frameY="-1" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0037" x="636" y="922" width="638" height="308" frameX="-1" frameY="-2" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0038" x="636" y="922" width="638" height="308" frameX="-1" frameY="-2" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0039" x="1274" y="922" width="637" height="307" frameX="-1" frameY="-3" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0040" x="1274" y="922" width="637" height="307" frameX="-1" frameY="-3" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0041" x="1911" y="922" width="638" height="307" frameX="-1" frameY="-4" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0042" x="1911" y="922" width="638" height="307" frameX="-1" frameY="-4" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0043" x="2549" y="922" width="639" height="307" frameX="-1" frameY="-5" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0044" x="2549" y="922" width="639" height="307" frameX="-1" frameY="-5" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0045" x="3188" y="922" width="639" height="306" frameX="-1" frameY="-7" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0046" x="3188" y="922" width="639" height="306" frameX="-1" frameY="-7" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0047" x="0" y="1230" width="639" height="306" frameX="-1" frameY="-8" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0048" x="0" y="1230" width="639" height="306" frameX="-1" frameY="-8" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0049" x="639" y="1230" width="641" height="304" frameX="0" frameY="-10" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0050" x="639" y="1230" width="641" height="304" frameX="0" frameY="-10" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0051" x="1280" y="1230" width="640" height="304" frameX="0" frameY="-11" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0052" x="1280" y="1230" width="640" height="304" frameX="0" frameY="-11" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0053" x="1920" y="1230" width="640" height="303" frameX="0" frameY="-12" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0054" x="1920" y="1230" width="640" height="303" frameX="0" frameY="-12" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0055" x="2560" y="1230" width="641" height="304" frameX="0" frameY="-12" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0056" x="2560" y="1230" width="641" height="304" frameX="0" frameY="-12" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0057" x="3201" y="1230" width="641" height="302" frameX="0" frameY="-13" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0058" x="3201" y="1230" width="641" height="302" frameX="0" frameY="-13" frameWidth="641" frameHeight="316"/>
+	<SubTexture name="monsty floating0059" x="0" y="0" width="641" height="303" frameX="0" frameY="-13" frameWidth="641" frameHeight="316"/>
+</TextureAtlas>

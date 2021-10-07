@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vincitoHUD.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mutant Screen GUI 10000" x="0" y="0" width="362" height="488" frameX="-2" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 10001" x="0" y="0" width="362" height="488" frameX="-2" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 10002" x="362" y="0" width="362" height="488" frameX="-2" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 10003" x="362" y="0" width="362" height="488" frameX="-2" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 10004" x="724" y="0" width="362" height="488" frameX="-2" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 10005" x="724" y="0" width="362" height="488" frameX="-2" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 10006" x="1086" y="0" width="362" height="488" frameX="-2" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 10007" x="1086" y="0" width="362" height="488" frameX="-2" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 10008" x="1448" y="0" width="362" height="488" frameX="-2" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 10009" x="1448" y="0" width="362" height="488" frameX="-2" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 10010" x="1810" y="0" width="362" height="488" frameX="-2" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 10011" x="2172" y="0" width="362" height="488" frameX="-2" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 10012" x="2534" y="0" width="362" height="488" frameX="-2" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 10013" x="2534" y="0" width="362" height="488" frameX="-2" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 10014" x="2896" y="0" width="362" height="488" frameX="-2" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 10015" x="2896" y="0" width="362" height="488" frameX="-2" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 10016" x="3258" y="0" width="362" height="488" frameX="-2" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 10017" x="3258" y="0" width="362" height="488" frameX="-2" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 10018" x="3620" y="0" width="362" height="488" frameX="-2" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 10019" x="3620" y="0" width="362" height="488" frameX="-2" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 10020" x="0" y="488" width="362" height="488" frameX="-2" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 10021" x="0" y="488" width="362" height="488" frameX="-2" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 10022" x="362" y="488" width="362" height="488" frameX="-2" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 10023" x="2534" y="0" width="362" height="488" frameX="-2" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 20000" x="724" y="488" width="362" height="488"/>
+	<SubTexture name="Mutant Screen GUI 20001" x="724" y="488" width="362" height="488"/>
+	<SubTexture name="Mutant Screen GUI 20002" x="362" y="0" width="362" height="488" frameX="0" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 20003" x="362" y="0" width="362" height="488" frameX="0" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 20004" x="724" y="0" width="362" height="488" frameX="0" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 20005" x="724" y="0" width="362" height="488" frameX="0" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 20006" x="1086" y="488" width="362" height="488"/>
+	<SubTexture name="Mutant Screen GUI 20007" x="1086" y="488" width="362" height="488"/>
+	<SubTexture name="Mutant Screen GUI 20008" x="1448" y="488" width="362" height="488"/>
+	<SubTexture name="Mutant Screen GUI 20009" x="1448" y="488" width="362" height="488"/>
+	<SubTexture name="Mutant Screen GUI 20010" x="1810" y="488" width="362" height="488"/>
+	<SubTexture name="Mutant Screen GUI 20011" x="1810" y="488" width="362" height="488"/>
+	<SubTexture name="Mutant Screen GUI 20012" x="2172" y="488" width="362" height="488"/>
+	<SubTexture name="Mutant Screen GUI 20013" x="2172" y="488" width="362" height="488"/>
+	<SubTexture name="Mutant Screen GUI 20014" x="2534" y="488" width="362" height="488"/>
+	<SubTexture name="Mutant Screen GUI 20015" x="2534" y="488" width="362" height="488"/>
+	<SubTexture name="Mutant Screen GUI 20016" x="2896" y="488" width="362" height="488"/>
+	<SubTexture name="Mutant Screen GUI 20017" x="3258" y="488" width="362" height="488"/>
+	<SubTexture name="Mutant Screen GUI 20018" x="3258" y="488" width="362" height="488"/>
+	<SubTexture name="Mutant Screen GUI 20019" x="3620" y="488" width="362" height="488"/>
+	<SubTexture name="Mutant Screen GUI 20020" x="3620" y="488" width="362" height="488"/>
+	<SubTexture name="Mutant Screen GUI 20021" x="0" y="976" width="362" height="488"/>
+	<SubTexture name="Mutant Screen GUI 20022" x="0" y="976" width="362" height="488"/>
+	<SubTexture name="Mutant Screen GUI 20023" x="2172" y="488" width="362" height="488"/>
+	<SubTexture name="Mutant Screen GUI 30000" x="362" y="976" width="219" height="89" frameX="-223" frameY="-528" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Mutant Screen GUI 30001" x="362" y="976" width="219" height="89" frameX="-223" frameY="-528" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Mutant Screen GUI 30002" x="581" y="976" width="340" height="410" frameX="-102" frameY="-207" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Mutant Screen GUI 30003" x="581" y="976" width="340" height="410" frameX="-102" frameY="-207" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Mutant Screen GUI 30004" x="921" y="976" width="371" height="523" frameX="-71" frameY="-94" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Mutant Screen GUI 30005" x="921" y="976" width="371" height="523" frameX="-71" frameY="-94" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Mutant Screen GUI 30006" x="1292" y="976" width="360" height="552" frameX="-75" frameY="-65" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Mutant Screen GUI 30007" x="1292" y="976" width="360" height="552" frameX="-75" frameY="-65" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Mutant Screen GUI 30008" x="1652" y="976" width="374" height="540" frameX="-66" frameY="-77" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Mutant Screen GUI 30009" x="1652" y="976" width="374" height="540" frameX="-66" frameY="-77" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Mutant Screen GUI 30010" x="2026" y="976" width="372" height="500" frameX="-70" frameY="-117" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Mutant Screen GUI 30011" x="2026" y="976" width="372" height="500" frameX="-70" frameY="-117" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Mutant Screen GUI 30012" x="2398" y="976" width="373" height="505" frameX="-69" frameY="-112" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Mutant Screen GUI 30013" x="2398" y="976" width="373" height="505" frameX="-69" frameY="-112" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Mutant Screen GUI 30014" x="2771" y="976" width="391" height="531" frameX="-50" frameY="-86" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Mutant Screen GUI 30015" x="2771" y="976" width="391" height="531" frameX="-50" frameY="-86" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Mutant Screen GUI 30016" x="3162" y="976" width="397" height="558" frameX="-2" frameY="-4" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Mutant Screen GUI 30017" x="3559" y="976" width="398" height="559" frameX="0" frameY="0" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Mutant Screen GUI 30018" x="3559" y="976" width="398" height="559" frameX="0" frameY="0" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Mutant Screen GUI 30019" x="0" y="1535" width="397" height="555" frameX="-9" frameY="-18" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Mutant Screen GUI 30020" x="0" y="1535" width="397" height="555" frameX="-9" frameY="-18" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Mutant Screen GUI 30021" x="397" y="1535" width="384" height="520" frameX="-58" frameY="-97" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Mutant Screen GUI 30022" x="397" y="1535" width="384" height="520" frameX="-58" frameY="-97" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Mutant Screen GUI 30023" x="2398" y="976" width="373" height="505" frameX="-69" frameY="-112" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Mutant Screen GUI 40000" x="781" y="1535" width="362" height="488" frameX="-62" frameY="0" frameWidth="456" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40001" x="781" y="1535" width="362" height="488" frameX="-62" frameY="0" frameWidth="456" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40002" x="362" y="0" width="362" height="488" frameX="-62" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40003" x="362" y="0" width="362" height="488" frameX="-62" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40004" x="724" y="0" width="362" height="488" frameX="-62" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40005" x="724" y="0" width="362" height="488" frameX="-62" frameY="0" frameWidth="364" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40006" x="1086" y="488" width="362" height="488" frameX="-62" frameY="0" frameWidth="362" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40007" x="1086" y="488" width="362" height="488" frameX="-62" frameY="0" frameWidth="362" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40008" x="1448" y="488" width="362" height="488" frameX="-62" frameY="0" frameWidth="362" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40009" x="1448" y="488" width="362" height="488" frameX="-62" frameY="0" frameWidth="362" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40010" x="1810" y="488" width="362" height="488" frameX="-62" frameY="0" frameWidth="362" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40011" x="1810" y="488" width="362" height="488" frameX="-62" frameY="0" frameWidth="362" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40012" x="1143" y="1535" width="394" height="488" frameX="-62" frameY="0" frameWidth="456" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40013" x="1143" y="1535" width="394" height="488" frameX="-62" frameY="0" frameWidth="456" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40014" x="1537" y="1535" width="394" height="488" frameX="-62" frameY="0" frameWidth="456" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40015" x="1537" y="1535" width="394" height="488" frameX="-62" frameY="0" frameWidth="456" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40016" x="1931" y="1535" width="456" height="488"/>
+	<SubTexture name="Mutant Screen GUI 40017" x="2387" y="1535" width="417" height="488" frameX="-39" frameY="0" frameWidth="456" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40018" x="2387" y="1535" width="417" height="488" frameX="-39" frameY="0" frameWidth="456" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40019" x="2804" y="1535" width="418" height="488" frameX="-38" frameY="0" frameWidth="456" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40020" x="2804" y="1535" width="418" height="488" frameX="-38" frameY="0" frameWidth="456" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40021" x="3222" y="1535" width="418" height="488" frameX="-38" frameY="0" frameWidth="456" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40022" x="3222" y="1535" width="418" height="488" frameX="-38" frameY="0" frameWidth="456" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40023" x="3222" y="1535" width="418" height="488" frameX="-38" frameY="0" frameWidth="456" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40024" x="3640" y="1535" width="413" height="488" frameX="-43" frameY="0" frameWidth="456" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40025" x="3640" y="1535" width="413" height="488" frameX="-43" frameY="0" frameWidth="456" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40026" x="0" y="2090" width="396" height="488" frameX="-60" frameY="0" frameWidth="456" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40027" x="0" y="2090" width="396" height="488" frameX="-60" frameY="0" frameWidth="456" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40028" x="396" y="2090" width="394" height="488" frameX="-62" frameY="0" frameWidth="456" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40029" x="396" y="2090" width="394" height="488" frameX="-62" frameY="0" frameWidth="456" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40030" x="790" y="2090" width="394" height="488" frameX="-62" frameY="0" frameWidth="456" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40031" x="790" y="2090" width="394" height="488" frameX="-62" frameY="0" frameWidth="456" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40032" x="1184" y="2090" width="362" height="488" frameX="-62" frameY="0" frameWidth="456" frameHeight="488"/>
+	<SubTexture name="Mutant Screen GUI 40033" x="1184" y="2090" width="362" height="488" frameX="-62" frameY="0" frameWidth="456" frameHeight="488"/>
+</TextureAtlas>
