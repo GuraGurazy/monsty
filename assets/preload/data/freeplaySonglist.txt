@@ -1,0 +1,4 @@
+Monsty:monsty:0
+Alien Mop:monsty:0
+Intense Fight:monsty-serious:0
+Serious Invasion:monsty-serious:0
